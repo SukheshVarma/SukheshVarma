@@ -7,7 +7,8 @@
   🔹Strengthening my DSA fundamentals
   🔹Building small projects to sharpen my frontend and backend skills
   🔹Learning how to integrate AI into simple apps
-  - Engineeing at [<img src="https://brandfetch.com/amrita.edu?view=library&library=default&collection=logos&asset=idYO9DXBsb&utm_source=https%253A%252F%252Fbrandfetch.com%252Famrita.edu&utm_medium=copyAction&utm_campaign=brandPageReferral&w=256&q=75" height="24">](https://brandfetch.com/amrita.edu),
+  - Engineering at [<img src="https://upload.brandfetch.io/idYO9DXBsb/idSfjRPSgw.svg" height="24"/>](https://www.amrita.edu)
+
 - Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
 - ⚡ Fun fact: I know Japanese.
 - Social Presence
