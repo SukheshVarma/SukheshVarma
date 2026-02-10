@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building more projects!<br><br>🌱 I’m currently learning DSA, Frameworks, Web Dev, and basics of AI<br><br>👯 I’m looking to collaborate on beginner-friendly open source or AI-based projects<br><br>🤝 I’m looking for help with learning backend frameworks like Node.js and databases<br><br>👨‍💻 All of my projects are available at [Coming soon 🚀]<br><br>💬 Ask me about C++,C,Python,HTML,CSS<br><br>⚡ Fun fact When I’m not coding, you’ll probably find me on the basketball court! 🏀
+🔭 I’m currently working on building more projects!<br><br>🌱 I’m currently learning DSA, Frameworks, Web Dev, and basics of AI<br><br>👯 I’m looking to collaborate on beginner-friendly open source or AI-based projects<br><br>🤝 I’m looking for help with learning backend frameworks like Node.js and databases<br><br>💬 Ask me about C++,C,Python,HTML,CSS<br><br>⚡ Fun fact When I’m not coding, you’ll probably find me on the basketball court! 🏀
 
 
 ## 🌐 Socials:
